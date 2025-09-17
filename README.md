@@ -8,6 +8,6 @@ I am a Ph.D Student in Computational Media and Arts at The Hong Kong University 
 </h4>
 </div>
 
-<div><p>My profile overview: </p></div>
+<div><p>My cyberslacking overview: </p></div>
 
 ![Zhijun's github stats](https://github-readme-stats.vercel.app/api?username=zhijun213&show_icons=true)
